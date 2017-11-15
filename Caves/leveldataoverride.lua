@@ -52,7 +52,7 @@ return {
     touchstone="default",
     trees="default",
     weather="default",
-    world_size="huge",
+    world_size="default",
     wormattacks="default",
     wormhole_prefab="tentacle_pillar",
     wormlights="default",

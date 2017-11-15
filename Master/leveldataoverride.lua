@@ -28,7 +28,7 @@ return {
     carrot="default",
     catcoon="default",
     chess="default",
-    day="default",
+    day="longday",
     deciduousmonster="default",
     deerclops="default",
     disease_delay="default",
@@ -83,7 +83,7 @@ return {
     weather="default",
     wildfires="default",
     winter="default",
-    world_size="default",
+    world_size="huge",
     wormhole_prefab="wormhole" 
   },
   random_set_pieces={
