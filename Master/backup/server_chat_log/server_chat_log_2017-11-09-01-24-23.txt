@@ -1,0 +1,11 @@
+[00:00:31]: [Join Announcement] hehihnio
+[00:01:20]: [Join Announcement] GeaR66
+[00:01:54]: [Join Announcement] не надо
+[00:19:12]: [Skin Announcement] hehihnio body_buttons_blue_sky
+[00:19:30]: [Skin Announcement] GeaR66 body_pj_blue_agean
+[01:06:48]: [Skin Announcement] hehihnio legs_skirt_plaid_green_pistachio
+[01:32:39]: [Death Announcement] hehihnio was killed by Hound. They became a spooky ghost!
+[01:33:25]: [Resurrect Announcement] hehihnio was resurrected by Fire Pit.
+[02:03:28]: [Leave Announcement] GeaR66
+[02:05:59]: [Leave Announcement] не надо
+[02:06:01]: [Leave Announcement] hehihnio

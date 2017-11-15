@@ -1,0 +1,18 @@
+[00:00:24]: [Join Announcement] hehihnio
+[00:00:50]: [Join Announcement] GeaR66
+[00:00:57]: [Join Announcement] не надо
+[00:01:01]: [Join Announcement] Kike from stove
+[00:01:13]: [Join Announcement] Bidon s Gandonami
+[00:12:47]: [Skin Announcement] hehihnio body_suspenders_yellow_flax
+[00:22:18]: [Leave Announcement] Kike from stove
+[00:44:33]: [Skin Announcement] Bidon s Gandonami body_trimmed_blouse_yellow_flax
+[00:44:48]: [Skin Announcement] GeaR66 body_flannel_blue_snowbird
+[01:01:21]: [Death Announcement] Bidon s Gandonami was killed by Spider Warrior. She became a spooky ghost!
+[01:01:25]: [Resurrect Announcement] Bidon s Gandonami was resurrected by Fire Pit.
+[01:05:24]: [Death Announcement] Bidon s Gandonami was killed by Crawling Horror. She became a spooky ghost!
+[01:05:28]: [Resurrect Announcement] Bidon s Gandonami was resurrected by Fire Pit.
+[01:07:05]: [Skin Announcement] не надо body_trimmed_blouse_red_higgsbury
+[01:37:34]: [Leave Announcement] hehihnio
+[01:37:34]: [Leave Announcement] Bidon s Gandonami
+[01:37:34]: [Leave Announcement] GeaR66
+[01:37:34]: [Leave Announcement] не надо

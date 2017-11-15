@@ -1,0 +1,16 @@
+[00:00:34]: [Join Announcement] hehihnio
+[00:01:48]: [Join Announcement] не надо
+[00:02:04]: [Say] (KU_2DNgIfw_) hehihnio: хуй
+[00:03:28]: [Join Announcement] GeaR66
+[00:05:50]: [Death Announcement] hehihnio was killed by Treeguard. They became a spooky ghost!
+[00:05:53]: [Resurrect Announcement] hehihnio was resurrected by Fire Pit.
+[00:07:10]: [Join Announcement] Фурболг
+[00:08:48]: [Death Announcement] Фурболг was killed by Darkness. She became a spooky ghost!
+[00:10:33]: [Resurrect Announcement] Фурболг was resurrected by Fire Pit.
+[00:13:24]: [Skin Announcement] Фурболг body_flannel_orange_lumberjack
+[00:16:07]: [Skin Announcement] не надо body_buttons_blue_sky
+[00:17:02]: [Death Announcement] hehihnio was killed by Deerclops. They became a spooky ghost!
+[00:17:10]: [Leave Announcement] hehihnio
+[00:17:11]: [Leave Announcement] Фурболг
+[00:17:11]: [Leave Announcement] не надо
+[00:17:11]: [Leave Announcement] GeaR66
