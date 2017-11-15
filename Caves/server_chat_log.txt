@@ -1,4 +1,21 @@
-[00:04:17]: [Join Announcement] не надо
-[00:19:34]: [Join Announcement] GeaR66
-[00:32:25]: [Leave Announcement] GeaR66
-[00:32:35]: [Leave Announcement] не надо
+[00:00:32]: [Join Announcement] hehihnio
+[00:05:26]: [Join Announcement] Жру говно
+[00:06:24]: [Join Announcement] не надо
+[00:07:11]: [Join Announcement] GeaR66
+[00:29:09]: [Death Announcement] GeaR66 was killed by Spider Warrior. He became a spooky ghost!
+[00:29:23]: [Resurrect Announcement] GeaR66 was resurrected by Campfire.
+[00:30:40]: [Death Announcement] GeaR66 was killed by Tentacle. He became a spooky ghost!
+[00:30:45]: [Resurrect Announcement] GeaR66 was resurrected by Campfire.
+[00:30:51]: [Skin Announcement] hehihnio hand_beltedgloves_brown_beaver
+[00:32:36]: [Death Announcement] GeaR66 was killed by Tentacle. He became a spooky ghost!
+[00:33:50]: [Resurrect Announcement] GeaR66 was resurrected by Campfire.
+[00:34:38]: [Death Announcement] GeaR66 was killed by Tentacle. He became a spooky ghost!
+[00:35:13]: [Resurrect Announcement] GeaR66 was resurrected by Campfire.
+[00:47:13]: [Skin Announcement] Жру говно mysterybox_lava_4
+[01:05:20]: [Skin Announcement] не надо mysterybox_lava_4
+[01:13:54]: [Death Announcement] не надо was killed by Hound. She became a spooky ghost!
+[01:14:11]: [Resurrect Announcement] не надо was resurrected by Fire Pit.
+[01:15:33]: [Skin Announcement] GeaR66 mysterybox_lava_4
+[01:25:02]: [Skin Announcement] hehihnio mysterybox_lava_4
+[01:45:31]: [Skin Announcement] не надо mysterybox_lava_4
+[01:46:32]: [Leave Announcement] hehihnio
